@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MAD_Task_06</string>
+    <string name="edit_url">Name</string>
+    <string name="open_url">Open URL</string>
+    <string name="edit_loc">Name</string>
+    <string name="btn_loc">Open Location</string>
+    <string name="btn_url" />
+    <string name="edit_share">Name</string>
+    <string name="btn_share">Share Text</string>
+    <string name="edit_URL">Open URL</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="enter_share_text">Enter Share Text</string>
+</resources>
